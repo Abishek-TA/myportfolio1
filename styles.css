@@ -228,3 +228,45 @@ ul li a{
     text-decoration: none;
     font-size: 20px;
 }
+.p2{
+    background-color: #f2f0ed;
+    margin-top: 1%;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.minipro2{
+    background-color: #AFD198 ;
+    display: inline-flex;
+    border-radius: 10px;
+    width: 100%;
+}
+.mini2left{
+    margin: 1%;
+    width: 35%;
+    padding: 7px;
+    border-radius: 10px;
+    background-color: #E8EFCF;
+}
+.mini2right{
+    width: 60%;
+    padding: 2%;
+}
+.right2cnt{
+   text-align: end;
+}
+.mini2left img{
+    width: 30%;
+    border-radius: 10px;
+}
+.pro2link{
+    text-align: end;
+    color: #982176;
+    text-decoration: none;
+    font-size: 15px;
+}
+.leetcnt{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
